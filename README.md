@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yesica Luna
 
-<!--
-**YLunaData/YLunaData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Data Science student** at the **Open University of Catalonia (UOC)** with a strong interest in data analytics, machine learning and artificial intelligence.
+
+My goal is to build practical solutions that transform raw data into meaningful insights and support data-driven decision making.
+
+---
+
+## About Me
+
+* BSc in Data Science (UOC)
+* Barcelona, Spain
+* Aspiring Data Analyst
+* Passionate about data, problem solving and continuous learning
+
+---
+
+## Skills & Tools
+
+### Programming
+
+* Python
+* SQL
+* PowerBI
+  
+### Data Analysis
+
+* Pandas
+* NumPy
+* Matplotlib
+
+### Tools
+
+* Jupyter Notebook
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YLunaData
+* LinkedIn: Coming soon
+
+
